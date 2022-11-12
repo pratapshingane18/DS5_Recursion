@@ -22,7 +22,7 @@ double taylor(int x, int n){
 }
 
 int main(){
-  int a = 3, b = 500;
+  int a = 3, b = 50;
   cout<<taylor(a,b)<<endl;
 
   return 0;
